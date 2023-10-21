@@ -20,5 +20,3 @@ jobs:
 
     - name: Run Hello World
       run: python hello.py
-
-# You can add more steps for deployment to a specific platform (e.g., Heroku, AWS, etc.).
